@@ -378,7 +378,7 @@ interface ReactGridProps {
      */
     readonly minColumnWidth?: number;
     /**
-     * Minimum column width (by default `25`), in pixels
+     * Minimum row height (by default `25`), in pixels
      * Used to limit the height row can be resized down to.
      */
     readonly minRowHeight?: number;

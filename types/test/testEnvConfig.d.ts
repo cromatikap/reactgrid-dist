@@ -28,6 +28,7 @@ export interface TestConfig {
     cellHeight: number;
     cellWidth: number;
     minCellWidth: number;
+    minCellHeight: number;
     fillHandleWidth: number;
     enableRangeSelection: boolean;
     enableFillHandle: boolean;
